@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Toggle</string>
+    <string name="wifiTabText">Wi-Fi</string>
+    <string name="bluetoothTabText">Bluetooth</string>
+    <string name="flashlightTabText">Flashlight</string>
+    <string name="wi_fi">Wi-Fi</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="flashlight">Flashlight</string>
+    <string name="scan_wi_fi_near_me">Scan Wi-Fi Near Me</string>
+    <string name="connect">Connect</string>
+    <string name="scan_bluetooth_devices">Scan Bluetooth Devices</string>
+</resources>
