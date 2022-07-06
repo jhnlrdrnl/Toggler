@@ -14,4 +14,4 @@
 1. [Coding in Flow](https://www.youtube.com/c/CodinginFlow)
 2. [Coding Demos](https://www.youtube.com/c/CodingDemos)
 3. [ARSL Tech](https://www.youtube.com/c/ARSLTech)
-4. [CodingWithMitch(https://www.youtube.com/c/CodingWithMitch)
+4. [CodingWithMitch](https://www.youtube.com/c/CodingWithMitch)
